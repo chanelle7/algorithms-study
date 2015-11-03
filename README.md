@@ -1,3 +1,3 @@
 # algorithms-study
 
-See issues ;)
+Click issues ;)
