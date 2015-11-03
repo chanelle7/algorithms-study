@@ -1,2 +1,3 @@
 # algorithms-study
-Have fun :)
+
+See issues ;)
