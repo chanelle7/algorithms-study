@@ -1,3 +1,3 @@
 # algorithms-study
 
-Click issues ;)
+Click the [issues](https://github.com/zeqing-guo/algorithms-study/issues) ;)
